@@ -46,7 +46,7 @@ Frame.Parent = loader123
 Frame.Active = false
 Frame.BackgroundColor3 = Color3.fromRGB(11, 19, 31)
 Frame.BorderSizePixel = 0
-Frame.Position = UDim2.new(0.209506422, 0, 0.679576039, 0)
+Frame.Position = UDim2.new(0.451473653, 0, 0.427715003, 0)
 Frame.Selectable = false
 Frame.Size = UDim2.new(0, 148, 0, 101)
 
